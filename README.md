@@ -111,9 +111,9 @@ Following changes have been made to keep updating the rules as the original repo
 - 直连：正常的网站
 - 包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist_ad.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist_ad.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist_ad.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist_ad.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_banlist_ad.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_banlist_ad.conf)
 
 ## 白名单过滤 + 广告
 
@@ -123,9 +123,9 @@ Following changes have been made to keep updating the rules as the original repo
 - 代理：默认代理其余的所有境外网站
 - 包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_whitelist_ad.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_whitelist_ad.conf)
 
 
 ## 黑名单过滤
@@ -136,9 +136,9 @@ Following changes have been made to keep updating the rules as the original repo
 - 直连：正常的网站
 - 不包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_banlist.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_banlist.conf)
 
 
 ## 白名单过滤
@@ -149,27 +149,27 @@ Following changes have been made to keep updating the rules as the original repo
 - 代理：默认代理其余的所有境外网站
 - 不包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_whitelist.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_top500_whitelist.conf)
 
 
 ## 国内外划分 + 广告
 
 国内外划分，对中国网站直连，外国网站代理。包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_cnip_ad.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_cnip_ad.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_cnip_ad.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_cnip_ad.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_cnip_ad.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_cnip_ad.conf)
 
 
 ## 国内外划分
 
 国内外划分，对中国网站直连，外国网站代理。不包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_cnip.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_cnip.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_cnip.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_cnip.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_cnip.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_cnip.conf)
 
 
 ## 直连去广告
@@ -179,9 +179,9 @@ Following changes have been made to keep updating the rules as the original repo
 - 直连：所有请求
 - 包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_direct_banad.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_direct_banad.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_direct_banad.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_direct_banad.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_direct_banad.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_direct_banad.conf)
 
 
 ## 代理去广告
@@ -192,9 +192,9 @@ Following changes have been made to keep updating the rules as the original repo
 - 代理：其余所有请求
 - 包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_proxy_banad.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_proxy_banad.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_proxy_banad.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_proxy_banad.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_proxy_banad.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_proxy_banad.conf)
 
 
 ## 回国规则
@@ -205,9 +205,9 @@ Following changes have been made to keep updating the rules as the original repo
 - 代理：中国网站
 - 不包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_backcn.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_backcn.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_backcn.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_backcn.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_backcn.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_backcn.conf)
 
 
 ## 回国规则 + 广告
@@ -218,6 +218,6 @@ Following changes have been made to keep updating the rules as the original repo
 - 代理：中国网站
 - 包含广告过滤
 
-规则地址：[https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_backcn_ad.conf](https://raw.githubusercontent.com/walkonthemarz/Shadowrocket-ADBlock-Rules/master/sr_backcn_ad.conf)
+规则地址：[https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_backcn_ad.conf](https://raw.githubusercontent.com/SpeedQualityCoding/Shadowrocket-ADBlock-Rules/master/sr_backcn_ad.conf)
 
-![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2Fwalkonthemarz%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_backcn_ad.conf)
+![二维码](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fraw.githubusercontent.com%2FSpeedQualityCoding%2FShadowrocket-ADBlock-Rules%2Fmaster%2Fsr_backcn_ad.conf)
