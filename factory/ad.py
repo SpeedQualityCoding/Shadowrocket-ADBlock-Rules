@@ -19,8 +19,28 @@ rules_url = [
     'https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt',
     # 乘风 广告过滤规则
     'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt',
-    # Adguard
-    'https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist'
+    # Adguard ChineseFilter - adservers.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/adservers.txt',
+    # Adguard ChineseFilter - adservers_firstparty.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/adservers_firstparty.txt',
+    # Adguard ChineseFilter - antiadblock.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/antiadblock.txt',
+    # Adguard ChineseFilter - css_extended.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/css_extended.txt',
+    # Adguard Base - adservers.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/adservers.txt',
+    # Adguard Base - adservers_firstparty.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/adservers_firstparty.txt',
+    # Adguard Base - antiadblock.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/antiadblock.txt',
+    # Adguard Base - css_extended.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/css_extended.txt',
+    # Adguard Mobile - adservers.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/adservers.txt',
+    # Adguard Mobile - antiadblock.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/antiadblock.txt',
+    # Adguard Mobile - css_extended.txt
+    'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/css_extended.txt',
 ]
 
 rule = ''
