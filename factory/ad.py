@@ -25,22 +25,18 @@ rules_url = [
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/adservers_firstparty.txt',
     # Adguard ChineseFilter - antiadblock.txt
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/antiadblock.txt',
-    # Adguard ChineseFilter - css_extended.txt
-    'https://github.com/AdguardTeam/AdguardFilters/raw/master/ChineseFilter/sections/css_extended.txt',
     # Adguard Base - adservers.txt
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/adservers.txt',
     # Adguard Base - adservers_firstparty.txt
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/adservers_firstparty.txt',
     # Adguard Base - antiadblock.txt
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/antiadblock.txt',
-    # Adguard Base - css_extended.txt
-    'https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/css_extended.txt',
     # Adguard Mobile - adservers.txt
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/adservers.txt',
     # Adguard Mobile - antiadblock.txt
     'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/antiadblock.txt',
     # Adguard Mobile - css_extended.txt
-    'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/css_extended.txt',
+    # 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/css_extended.txt',
 ]
 
 rule = ''
@@ -65,6 +61,9 @@ for rule_url in rules_url:
             success = True
             break
 
+    if r.status_code == 404:
+        print('skipping: ' + rule_url)
+        continue
     if not success:
         sys.exit('error in request %s\n\treturn code: %d' % (rule_url, r.status_code) )
 
